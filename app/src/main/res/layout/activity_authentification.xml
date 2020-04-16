@@ -41,7 +41,7 @@
         android:id="@+id/ready_show"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ready to receive "
+        android:text="Ready to receive"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/code_view"
